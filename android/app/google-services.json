@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "391622920518",
+    "project_id": "megashop-e949d",
+    "storage_bucket": "megashop-e949d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391622920518:android:9e0a7d013b1075fd8f7d47",
+        "android_client_info": {
+          "package_name": "com.repticinfo.repticpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391622920518-r6uhovnaq524qvm3jhd6evlbbnhpvskq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebg7CMhiD3_oYI0rItuyEFWY0Mj-dvHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391622920518-r6uhovnaq524qvm3jhd6evlbbnhpvskq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391622920518:android:2712d26e8d6449068f7d47",
+        "android_client_info": {
+          "package_name": "com.saltinfo.megashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391622920518-ri2sfd47bkiohc8fab79ik8dav1vfnr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saltinfo.megashop",
+            "certificate_hash": "d25d25a001c5f162da78eb1f002f3b43ff70c052"
+          }
+        },
+        {
+          "client_id": "391622920518-r6uhovnaq524qvm3jhd6evlbbnhpvskq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebg7CMhiD3_oYI0rItuyEFWY0Mj-dvHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391622920518-r6uhovnaq524qvm3jhd6evlbbnhpvskq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
